@@ -101,13 +101,15 @@ a.link button:houver{
     .container_caixa{
     margin: 10em 10em;
 }}
-.footer{
-    background-color: #333;
-	color: #fff;
-	padding: 0%;
-	text-align: center;
-	margin-top: 2%;
-	font-size: 10px;   
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: blue;
+    color: #FFF;
+    width: 100%;
+    height: 100px;    
+    text-align: center;
+    line-height: 100px;
 }
            
 
